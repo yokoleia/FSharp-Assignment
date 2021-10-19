@@ -9,3 +9,14 @@ E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Par
 E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\obj\Debug\net5.0\TSPModel.fsproj.CopyComplete
 E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\obj\Debug\net5.0\TSPModel.dll
 E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\obj\Debug\net5.0\TSPModel.pdb
+D:\dev\Git-repos\FSharp-Assignment\TSPModel\bin\Debug\net5.0\TSPModel.deps.json
+D:\dev\Git-repos\FSharp-Assignment\TSPModel\bin\Debug\net5.0\TSPModel.dll
+D:\dev\Git-repos\FSharp-Assignment\TSPModel\bin\Debug\net5.0\TSPModel.pdb
+D:\dev\Git-repos\FSharp-Assignment\TSPModel\bin\Debug\net5.0\RandomMonad.dll
+D:\dev\Git-repos\FSharp-Assignment\TSPModel\bin\Debug\net5.0\RandomMonad.pdb
+D:\dev\Git-repos\FSharp-Assignment\TSPModel\obj\Debug\net5.0\TSPModel.fsprojAssemblyReference.cache
+D:\dev\Git-repos\FSharp-Assignment\TSPModel\obj\Debug\net5.0\TSPModel.AssemblyInfoInputs.cache
+D:\dev\Git-repos\FSharp-Assignment\TSPModel\obj\Debug\net5.0\TSPModel.AssemblyInfo.fs
+D:\dev\Git-repos\FSharp-Assignment\TSPModel\obj\Debug\net5.0\TSPModel.fsproj.CopyComplete
+D:\dev\Git-repos\FSharp-Assignment\TSPModel\obj\Debug\net5.0\TSPModel.dll
+D:\dev\Git-repos\FSharp-Assignment\TSPModel\obj\Debug\net5.0\TSPModel.pdb

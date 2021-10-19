@@ -266,19 +266,6 @@
           "ref/netstandard1.3/_._": {}
         }
       },
-      "CSharpGeneticAlgorithm/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "FSharp.Core": "5.0.0"
-        },
-        "compile": {
-          "bin/placeholder/CSharpGeneticAlgorithm.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CSharpGeneticAlgorithm.dll": {}
-        }
-      },
       "FSharpGeneticAlgorithm/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -1222,11 +1209,6 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "CSharpGeneticAlgorithm/1.0.0": {
-      "type": "project",
-      "path": "../CSharpSchedule/CSharpGeneticAlgorithm.csproj",
-      "msbuildProject": "../CSharpSchedule/CSharpGeneticAlgorithm.csproj"
-    },
     "FSharpGeneticAlgorithm/1.0.0": {
       "type": "project",
       "path": "../GeneticAlgorithm/FSharpGeneticAlgorithm.fsproj",
@@ -1245,7 +1227,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "CSharpGeneticAlgorithm >= 1.0.0",
+      "D:\\dev\\Git-repos\\FSharp-Assignment\\CSharpSchedule\\CSharpGeneticAlgorithm.csproj",
       "FSharpGeneticAlgorithm >= 1.0.0",
       "ReactiveUI.Fody >= 13.1.1",
       "ReactiveUI.WPF >= 13.1.1",
@@ -1258,11 +1240,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\TSPView\\TSPView.csproj",
+      "projectUniqueName": "D:\\dev\\Git-repos\\FSharp-Assignment\\TSPView\\TSPView.csproj",
       "projectName": "TSPView",
-      "projectPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\TSPView\\TSPView.csproj",
+      "projectPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\TSPView\\TSPView.csproj",
       "packagesPath": "C:\\Users\\yokol\\.nuget\\packages\\",
-      "outputPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\TSPView\\obj\\",
+      "outputPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\TSPView\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yokol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1279,14 +1261,14 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\CSharpSchedule\\CSharpGeneticAlgorithm.csproj": {
-              "projectPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\CSharpSchedule\\CSharpGeneticAlgorithm.csproj"
+            "D:\\dev\\Git-repos\\FSharp-Assignment\\CSharpSchedule\\CSharpGeneticAlgorithm.csproj": {
+              "projectPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\CSharpSchedule\\CSharpGeneticAlgorithm.csproj"
             },
-            "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\GeneticAlgorithm\\FSharpGeneticAlgorithm.fsproj": {
-              "projectPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\GeneticAlgorithm\\FSharpGeneticAlgorithm.fsproj"
+            "D:\\dev\\Git-repos\\FSharp-Assignment\\GeneticAlgorithm\\FSharpGeneticAlgorithm.fsproj": {
+              "projectPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\GeneticAlgorithm\\FSharpGeneticAlgorithm.fsproj"
             },
-            "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\TSPModel\\TSPModel.fsproj": {
-              "projectPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\TSPModel\\TSPModel.fsproj"
+            "D:\\dev\\Git-repos\\FSharp-Assignment\\TSPModel\\TSPModel.fsproj": {
+              "projectPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\TSPModel\\TSPModel.fsproj"
             }
           }
         }
@@ -1334,5 +1316,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\dev\\Git-repos\\FSharp-Assignment\\CSharpSchedule\\CSharpGeneticAlgorithm.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\dev\\Git-repos\\FSharp-Assignment\\CSharpSchedule\\CSharpGeneticAlgorithm.csproj",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
 }

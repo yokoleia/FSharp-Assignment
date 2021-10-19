@@ -20,3 +20,14 @@ D:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Par
 D:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\GeneticAlgorithm\obj\Debug\net5.0\FSharpGeneticAlgorithm.fsproj.CopyComplete
 D:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\GeneticAlgorithm\obj\Debug\net5.0\FSharpGeneticAlgorithm.dll
 D:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\GeneticAlgorithm\obj\Debug\net5.0\FSharpGeneticAlgorithm.pdb
+D:\dev\Git-repos\FSharp-Assignment\GeneticAlgorithm\bin\Debug\net5.0\FSharpGeneticAlgorithm.deps.json
+D:\dev\Git-repos\FSharp-Assignment\GeneticAlgorithm\bin\Debug\net5.0\FSharpGeneticAlgorithm.dll
+D:\dev\Git-repos\FSharp-Assignment\GeneticAlgorithm\bin\Debug\net5.0\FSharpGeneticAlgorithm.pdb
+D:\dev\Git-repos\FSharp-Assignment\GeneticAlgorithm\bin\Debug\net5.0\RandomMonad.dll
+D:\dev\Git-repos\FSharp-Assignment\GeneticAlgorithm\bin\Debug\net5.0\RandomMonad.pdb
+D:\dev\Git-repos\FSharp-Assignment\GeneticAlgorithm\obj\Debug\net5.0\FSharpGeneticAlgorithm.fsprojAssemblyReference.cache
+D:\dev\Git-repos\FSharp-Assignment\GeneticAlgorithm\obj\Debug\net5.0\FSharpGeneticAlgorithm.AssemblyInfoInputs.cache
+D:\dev\Git-repos\FSharp-Assignment\GeneticAlgorithm\obj\Debug\net5.0\FSharpGeneticAlgorithm.AssemblyInfo.fs
+D:\dev\Git-repos\FSharp-Assignment\GeneticAlgorithm\obj\Debug\net5.0\FSharpGeneticAlgorithm.fsproj.CopyComplete
+D:\dev\Git-repos\FSharp-Assignment\GeneticAlgorithm\obj\Debug\net5.0\FSharpGeneticAlgorithm.dll
+D:\dev\Git-repos\FSharp-Assignment\GeneticAlgorithm\obj\Debug\net5.0\FSharpGeneticAlgorithm.pdb

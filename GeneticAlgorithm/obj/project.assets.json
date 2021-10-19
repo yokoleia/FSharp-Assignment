@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\GeneticAlgorithm\\FSharpGeneticAlgorithm.fsproj",
+      "projectUniqueName": "D:\\dev\\Git-repos\\FSharp-Assignment\\GeneticAlgorithm\\FSharpGeneticAlgorithm.fsproj",
       "projectName": "FSharpGeneticAlgorithm",
-      "projectPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\GeneticAlgorithm\\FSharpGeneticAlgorithm.fsproj",
+      "projectPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\GeneticAlgorithm\\FSharpGeneticAlgorithm.fsproj",
       "packagesPath": "C:\\Users\\yokol\\.nuget\\packages\\",
-      "outputPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\GeneticAlgorithm\\obj\\",
+      "outputPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\GeneticAlgorithm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yokol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,8 +134,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\RandomMonad\\RandomMonad.fsproj": {
-              "projectPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\RandomMonad\\RandomMonad.fsproj"
+            "D:\\dev\\Git-repos\\FSharp-Assignment\\RandomMonad\\RandomMonad.fsproj": {
+              "projectPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\RandomMonad\\RandomMonad.fsproj"
             }
           }
         }

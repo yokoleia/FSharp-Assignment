@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cr6t1cqwuN1aKWpVr6wVwveVr7aiCsk5tmhga3GTYwB8rp4Y+UTYmOExdJ0iwq62Ky3J6hIb1YzsO1GQQqgoow==",
+  "dgSpecHash": "ZZnCgYXEmKL3h+jtcKjR9eRTlMU8wciHHffKCm+S76WGKHDLpxjQZwuEMPNOyy+kHJQ92ILXTbtlfR2wAJihyg==",
   "success": true,
-  "projectFilePath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\TSPModel\\TSPModel.fsproj",
+  "projectFilePath": "D:\\dev\\Git-repos\\FSharp-Assignment\\TSPModel\\TSPModel.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\yokol\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\TSPModel\\TSPModel.fsproj": {}
+    "D:\\dev\\Git-repos\\FSharp-Assignment\\TSPModel\\TSPModel.fsproj": {}
   },
   "projects": {
-    "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\RandomMonad\\RandomMonad.fsproj": {
+    "D:\\dev\\Git-repos\\FSharp-Assignment\\RandomMonad\\RandomMonad.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\RandomMonad\\RandomMonad.fsproj",
+        "projectUniqueName": "D:\\dev\\Git-repos\\FSharp-Assignment\\RandomMonad\\RandomMonad.fsproj",
         "projectName": "RandomMonad",
-        "projectPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\RandomMonad\\RandomMonad.fsproj",
+        "projectPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\RandomMonad\\RandomMonad.fsproj",
         "packagesPath": "C:\\Users\\yokol\\.nuget\\packages\\",
-        "outputPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\RandomMonad\\obj\\",
+        "outputPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\RandomMonad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yokol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,14 +60,14 @@
         }
       }
     },
-    "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\TSPModel\\TSPModel.fsproj": {
+    "D:\\dev\\Git-repos\\FSharp-Assignment\\TSPModel\\TSPModel.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\TSPModel\\TSPModel.fsproj",
+        "projectUniqueName": "D:\\dev\\Git-repos\\FSharp-Assignment\\TSPModel\\TSPModel.fsproj",
         "projectName": "TSPModel",
-        "projectPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\TSPModel\\TSPModel.fsproj",
+        "projectPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\TSPModel\\TSPModel.fsproj",
         "packagesPath": "C:\\Users\\yokol\\.nuget\\packages\\",
-        "outputPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\TSPModel\\obj\\",
+        "outputPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\TSPModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yokol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,8 +84,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\RandomMonad\\RandomMonad.fsproj": {
-                "projectPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\RandomMonad\\RandomMonad.fsproj"
+              "D:\\dev\\Git-repos\\FSharp-Assignment\\RandomMonad\\RandomMonad.fsproj": {
+                "projectPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\RandomMonad\\RandomMonad.fsproj"
               }
             }
           }

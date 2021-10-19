@@ -94,11 +94,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\RandomMonad\\RandomMonad.fsproj",
+      "projectUniqueName": "D:\\dev\\Git-repos\\FSharp-Assignment\\RandomMonad\\RandomMonad.fsproj",
       "projectName": "RandomMonad",
-      "projectPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\RandomMonad\\RandomMonad.fsproj",
+      "projectPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\RandomMonad\\RandomMonad.fsproj",
       "packagesPath": "C:\\Users\\yokol\\.nuget\\packages\\",
-      "outputPath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\RandomMonad\\obj\\",
+      "outputPath": "D:\\dev\\Git-repos\\FSharp-Assignment\\RandomMonad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yokol\\AppData\\Roaming\\NuGet\\NuGet.Config",

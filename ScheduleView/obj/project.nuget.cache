@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ho20zmhi6DmTdfh0Cf25RR3YlLGxJ8QTU6+NiFqX0jODmUH01rM1sZNJsEMn+zTRAcAxFVn4QmsJIjAyTGhrfg==",
-  "success": true,
-  "projectFilePath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\ScheduleView\\ScheduleView.csproj",
+  "dgSpecHash": "mNY+otltoR4gCbl7988m8AscGiEO30oxmHiSqJvdc+2ZyV43FO22OPfpIVxbInFmjzz2ItUQCF0tPyuGRC9d8g==",
+  "success": false,
+  "projectFilePath": "D:\\dev\\Git-repos\\FSharp-Assignment\\ScheduleView\\ScheduleView.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yokol\\.nuget\\packages\\dynamicdata\\7.1.1\\dynamicdata.7.1.1.nupkg.sha512",
     "C:\\Users\\yokol\\.nuget\\packages\\fody\\6.3.0\\fody.6.3.0.nupkg.sha512",
@@ -24,5 +24,24 @@
     "C:\\Users\\yokol\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\yokol\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\dev\\Git-repos\\FSharp-Assignment\\ScheduleModel\\ScheduleModel.fsproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\dev\\Git-repos\\FSharp-Assignment\\ScheduleModel\\ScheduleModel.fsproj",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\dev\\Git-repos\\FSharp-Assignment\\CSharpSchedule\\CSharpGeneticAlgorithm.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\dev\\Git-repos\\FSharp-Assignment\\CSharpSchedule\\CSharpGeneticAlgorithm.csproj",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
 }

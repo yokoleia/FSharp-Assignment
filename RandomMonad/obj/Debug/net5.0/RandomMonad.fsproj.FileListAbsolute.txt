@@ -5,3 +5,11 @@ E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Par
 E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\RandomMonad\obj\Debug\net5.0\RandomMonad.AssemblyInfo.fs
 E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\RandomMonad\obj\Debug\net5.0\RandomMonad.dll
 E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\RandomMonad\obj\Debug\net5.0\RandomMonad.pdb
+D:\dev\Git-repos\FSharp-Assignment\RandomMonad\bin\Debug\net5.0\RandomMonad.deps.json
+D:\dev\Git-repos\FSharp-Assignment\RandomMonad\bin\Debug\net5.0\RandomMonad.dll
+D:\dev\Git-repos\FSharp-Assignment\RandomMonad\bin\Debug\net5.0\RandomMonad.pdb
+D:\dev\Git-repos\FSharp-Assignment\RandomMonad\obj\Debug\net5.0\RandomMonad.fsprojAssemblyReference.cache
+D:\dev\Git-repos\FSharp-Assignment\RandomMonad\obj\Debug\net5.0\RandomMonad.AssemblyInfoInputs.cache
+D:\dev\Git-repos\FSharp-Assignment\RandomMonad\obj\Debug\net5.0\RandomMonad.AssemblyInfo.fs
+D:\dev\Git-repos\FSharp-Assignment\RandomMonad\obj\Debug\net5.0\RandomMonad.dll
+D:\dev\Git-repos\FSharp-Assignment\RandomMonad\obj\Debug\net5.0\RandomMonad.pdb
