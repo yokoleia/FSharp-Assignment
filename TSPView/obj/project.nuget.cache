@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "X04Csr6NP998LVO3i0unDXSuRTPoF6BgHRo4SAjbQbjqIwloI257PGxXVdZ5YEIveyXXsYQa3OBKhCkUvuwDKA==",
+  "success": true,
+  "projectFilePath": "D:\\uni\\IN02 - Bachelor of Information Technology\\2021\\Semester 1\\Programming Paradigms\\CAB402AssignmentOneSkeletonSolution\\TSPView\\TSPView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yokol\\.nuget\\packages\\dynamicdata\\7.1.1\\dynamicdata.7.1.1.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\fody\\6.3.0\\fody.6.3.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\reactiveui\\13.1.1\\reactiveui.13.1.1.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\reactiveui.fody\\13.1.1\\reactiveui.fody.13.1.1.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\reactiveui.wpf\\13.1.1\\reactiveui.wpf.13.1.1.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\splat\\10.0.1\\splat.10.0.1.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\yokol\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

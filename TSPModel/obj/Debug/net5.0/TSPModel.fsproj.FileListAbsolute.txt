@@ -1,0 +1,11 @@
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\bin\Debug\net5.0\TSPModel.deps.json
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\bin\Debug\net5.0\TSPModel.dll
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\bin\Debug\net5.0\TSPModel.pdb
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\bin\Debug\net5.0\RandomMonad.dll
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\bin\Debug\net5.0\RandomMonad.pdb
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\obj\Debug\net5.0\TSPModel.fsprojAssemblyReference.cache
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\obj\Debug\net5.0\TSPModel.AssemblyInfoInputs.cache
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\obj\Debug\net5.0\TSPModel.AssemblyInfo.fs
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\obj\Debug\net5.0\TSPModel.fsproj.CopyComplete
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\obj\Debug\net5.0\TSPModel.dll
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\TSPModel\obj\Debug\net5.0\TSPModel.pdb

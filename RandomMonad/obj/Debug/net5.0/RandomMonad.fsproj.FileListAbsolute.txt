@@ -1,0 +1,7 @@
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\RandomMonad\bin\Debug\net5.0\RandomMonad.deps.json
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\RandomMonad\bin\Debug\net5.0\RandomMonad.dll
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\RandomMonad\bin\Debug\net5.0\RandomMonad.pdb
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\RandomMonad\obj\Debug\net5.0\RandomMonad.AssemblyInfoInputs.cache
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\RandomMonad\obj\Debug\net5.0\RandomMonad.AssemblyInfo.fs
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\RandomMonad\obj\Debug\net5.0\RandomMonad.dll
+E:\uni\IN02 - Bachelor of Information Technology\2021\Semester 1\Programming Paradigms\CAB402AssignmentOneSkeletonSolution\RandomMonad\obj\Debug\net5.0\RandomMonad.pdb
